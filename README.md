@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/Rohit-28/Project-IIML/edit
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Data Science Project
+Detailed analysis is in progress ...
 
 
 
@@ -13,7 +14,7 @@ _Rohit_
 _Dhananjay_
 _Manish_
 _Nishant_
-_Suresh_
+_Surendra_
 _Pallavi_
 
 
